@@ -1,1 +1,1 @@
-Snake game feito com python e com a biblioteca pygame para fins educativos.
+Snake game feito com python e com a biblioteca pygame.
